@@ -9,7 +9,11 @@ export default function App() {
       <Search />
       <footer>
         Open-sourced by Laura Rahmati on{" "}
-        <a href="#" target="_blank" rel="moreferrer">
+        <a
+          href="https://github.com/Laux0/react-vite-weather-project-vs"
+          target="_blank"
+          rel="moreferrer"
+        >
           Github
         </a>
       </footer>
